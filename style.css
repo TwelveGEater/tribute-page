@@ -1,0 +1,64 @@
+body {
+    margin: 0px;
+    padding: 0px;
+    background-color: rgb(255, 255, 255);
+    font-family: 'Raleway', sans-serif;
+}
+
+.container {
+    background-color: #eee;
+    margin: 20px 10px;
+    border-radius: 8px;
+    text-align: center;
+    padding: 25px 0px;
+}
+
+.title {
+    font-family: 'ZCOOL KuaiLe', cursive;
+    font-size: 40px;
+}
+
+.hero {
+    font-family: 'Yanone Kaffeesatz', sans-serif;
+    font-size: 25px;
+}
+
+.normann {
+    text-align: center;
+    background-color: #fff;
+    margin: 0px 10px;
+}
+
+.yields {
+    padding: 15px 0px;
+}
+
+.life {
+    font-size: 25px;
+    padding-top: 20px;
+}
+
+.life-list {
+    max-width: 600px;
+    margin: 0 auto;
+    text-align: left;
+}
+
+.life-list li {
+    margin: 10px 0px;
+    font-family: 'Raleway', sans-serif;
+}
+
+.bold {
+    font-weight: 700;
+}
+
+.resource {
+    display: block;
+    margin-top: 10px;
+}
+
+.wiki {
+    font-weight: bold;
+    font-size: 20px;
+}
